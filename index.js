@@ -1,4 +1,4 @@
-let btn = document.getElementsByClassName('box');
+let btn = document.getElementsByClassName('smileyface');
 
 function mouseOver(e){
     btn[e.target.getAttribute('name')].style.opacity='0'; 
