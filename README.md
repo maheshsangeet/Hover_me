@@ -1,6 +1,6 @@
-## Hover_me 
+# Hover_me 
 
-# Live Preview: [Open Link](https://maheshsangeet.github.io/Hover_me/)
+## Live Preview:  [Open Link](https://maheshsangeet.github.io/Hover_me/)
    
 
 Before Hover
