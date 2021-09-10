@@ -3,11 +3,9 @@
 ## Live Preview:  [Open Link](https://maheshsangeet.github.io/Hover_me/)
    
 
-#### Before Hover
 
-![Screenshot from 2021-09-03 18-56-54 (1)](https://user-images.githubusercontent.com/74812363/132015256-fbf9f71f-1e36-4ee4-95b8-29ec6149abce.png)
+![Screenshot from 2021-09-10 23-29-40](https://user-images.githubusercontent.com/74812363/132897484-e43389bb-6b38-4194-bac7-7a01eaa78e71.png)
 
-#### After Hover
 
-![Screenshot from 2021-09-03 18-57-58](https://user-images.githubusercontent.com/74812363/132013721-1355dfc1-14ef-4737-b355-bc4bbec865a3.png)
+![Screenshot from 2021-09-10 23-18-45](https://user-images.githubusercontent.com/74812363/132897548-a30a3fe3-8aac-4339-915e-f24f230c38a4.png)
 
